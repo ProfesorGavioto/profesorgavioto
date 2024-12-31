@@ -10,7 +10,7 @@
 
 ## Mis intereses
 
-Además de enseñar, me apasiona la historia, especialmente la de Roma y España, y disfruto explorando la ingeniería y arquitectura antigua. Verás que algunos proyectos pueden estar influenciados por estas pasiones.
+Además de enseñar, me apasionan la ingeniería y la arquitectura antiguas, especialmente las romanass. 
 
 ## Sígueme en YouTube
 
