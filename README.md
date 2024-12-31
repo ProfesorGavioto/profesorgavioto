@@ -8,9 +8,16 @@
 - **Proyectos educativos**: Recursos y actividades que utilizo en mis clases de FP y secundaria en informática.
 - **Guías prácticas**: Documentos y ejercicios enfocados en conceptos clave como Git, GitHub, y lenguajes de programación.
 
+![Afoto](Coliseo01.webp)
+
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCc3lDTRa4w5yZbNxbLykCpA?style=social)](https://www.youtube.com/@Profesor_Gavioto?sub_confirmation=1)
+
+
+
 ## Mis intereses
 
-Migran pasión es la enseñanza: me encanta ser profesor de informática. Y, aunque parexca extraño, mi otra gran pasión son la ingeniería y la arquitectura antiguas, especialmente las romanas. 
+Mi gran pasión es la enseñanza: me encanta ser profesor de informática. Y, aunque parezca extraño, mi otra gran pasión es la ingeniería y la arquitectura antiguas, especialmente las de la época romana. Me resulta fascinante ver lo que eran capaces de hacer con los medios tecnológicos de la época. Así es que.. ¡qué no podremos conseguir si aplicamos adecaudamente los medios y conocimientos actuales!
 
 ## Sígueme en YouTube
 
@@ -20,5 +27,6 @@ En mi canal de YouTube [Profesor_Gavioto](https://www.youtube.com/@Profesor_Gavi
 
 ---
 
-<img src="Coliseo01.webp" alt="Coliseo estilo Matrix 1" width="300"/> <img src="Coliseo02.webp" alt="Coliseo estilo Matrix 2" width="300"/>
+## Inspiración visual
 
+<div style="float: left; margin: 10px;"><img src="Coliseo01.webp" alt="Coliseo estilo Matrix 1" width="300px"></div> <div style="float: right; margin: 10px;"><img src="Coliseo02.webp" alt="Coliseo estilo Matrix 2" width="300px"></div>
