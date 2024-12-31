@@ -20,6 +20,5 @@ En mi canal de YouTube [Profesor_Gavioto](https://www.youtube.com/@Profesor_Gavi
 
 ---
 
-**Imagen destacada**
-
-*(Puedes generar una imagen representativa para este repositorio, como un diseño simple que combine elementos de programación y educación. Déjame saber si necesitas una idea específica.)*
+![Coliseo estilo Matrix 1](Coliseo01.webp)
+![Coliseo estilo Matrix 2](Coliseo02.webp)
