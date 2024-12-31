@@ -10,7 +10,7 @@
 
 ## Mis intereses
 
-Además de enseñar, me apasionan la ingeniería y la arquitectura antiguas, especialmente las romanass. 
+Migran pasión es la enseñanza: me encanta ser profesor de informática. Y, aunque parexca extraño, mi otra gran pasión son la ingeniería y la arquitectura antiguas, especialmente las romanas. 
 
 ## Sígueme en YouTube
 
