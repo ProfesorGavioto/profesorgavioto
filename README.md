@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bienvenidos a mi GitHub
 
-<!--
-**ProfesorGavioto/profesorgavioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Daniel, conocido aquí como **ProfesorGavioto**. Este espacio está dedicado a compartir conocimientos sobre desarrollo, programación y herramientas útiles para estudiantes y profesionales.
 
-Here are some ideas to get you started:
+## ¿Qué encontrarás aquí?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tutoriales y ejemplos**: Material relacionado con desarrollo web (HTML, CSS, JavaScript) y control de versiones con Git.
+- **Proyectos educativos**: Recursos y actividades que utilizo en mis clases de FP y secundaria en informática.
+- **Guías prácticas**: Documentos y ejercicios enfocados en conceptos clave como Git, GitHub, y lenguajes de programación.
+
+## Mis intereses
+
+Además de enseñar, me apasiona la historia, especialmente la de Roma y España, y disfruto explorando la ingeniería y arquitectura antigua. Verás que algunos proyectos pueden estar influenciados por estas pasiones.
+
+## Sígueme en YouTube
+
+En mi canal de YouTube [Profesor_Gavioto](https://www.youtube.com/@Profesor_Gavioto), encontrarás vídeos educativos sobre los temas que trato aquí, explicados de forma clara y accesible.
+
+¡Gracias por visitar mi perfil! Espero que encuentres útiles los recursos que comparto. Si tienes preguntas o sugerencias, no dudes en contactarme a través de GitHub.
+
+---
+
+**Imagen destacada**
+
+*(Puedes generar una imagen representativa para este repositorio, como un diseño simple que combine elementos de programación y educación. Déjame saber si necesitas una idea específica.)*
