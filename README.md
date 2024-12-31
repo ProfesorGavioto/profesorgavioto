@@ -20,7 +20,5 @@ En mi canal de YouTube [Profesor_Gavioto](https://www.youtube.com/@Profesor_Gavi
 
 ---
 
-<img src="Coliseo01.webp" alt="Coliseo estilo Matrix 1" width="500"/>
-<img src="Coliseo02.webp" alt="Coliseo estilo Matrix 2" width="500"/>
-![Coliseo estilo Matrix 1](Coliseo01.webp)
-![Coliseo estilo Matrix 2](Coliseo02.webp)
+<img src="Coliseo01.webp" alt="Coliseo estilo Matrix 1" width="300"/> <img src="Coliseo02.webp" alt="Coliseo estilo Matrix 2" width="300"/>
+
